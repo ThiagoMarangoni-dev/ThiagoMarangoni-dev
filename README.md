@@ -3,7 +3,7 @@
 ### Thiago Marangoni
  
  
-<img align="right" height="50px" width="100px" alt="ano" src="(https://img.odcdn.com.br/wp-content/uploads/2017/06/20170609141843.jpg)"/>
+<img align="right" height="50px" width="100px" alt="ano" src="(sla.jpg)"/>
  
 <div/>
  

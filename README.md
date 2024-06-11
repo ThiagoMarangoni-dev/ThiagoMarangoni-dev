@@ -1,15 +1,20 @@
-### Hi there 👋
+# Olá! Eu sou o Thiago 👋
 
-### Thiago Marangoni
+## Sobre Mim
+
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Com experiência em diversas linguagens de programação e ferramentas, estou sempre buscando aprender e compartilhar conhecimento.
+
+- 🌱 Atualmente estou aprendendo **[Python]**.
+- 👯 Estou procurando colaborar em **projetos Open Source**.
+- 🤔 Estou procurando ajuda com **[Django]**.
+
  
- 
-<img align="right" height="50px" width="100px" alt="ano" src="https://github.com/ThiagoMarangoni-dev/ThiagoMarangoni-dev/blob/81300f5a8f713c585f2633dcfcaab781a6ece249/sla.jpg"/>
  
 <div/>
  
  
 <br>   
-  ## Status
+     Status
 <div>
 <a href="https://github.com/ThiagoMarangoni-dev/github-readme-stats">
 <img height=150em src="https://github-readme-stats.vercel.app/api?username=ThiagoMarangoni-dev&show_icons=true&theme=midnight-purple" />
@@ -19,7 +24,7 @@
 </a>
 </div>
  
-## Linguagens e ferramentas
+##   Linguagens de Programação e ferramentas
 <div style="display: inline_block"><br>
 <img alt="Icons" align="center" height="40" width="290" src="https://skillicons.dev/icons?i=js,html,css,vscode,py,java,git" /> 
 

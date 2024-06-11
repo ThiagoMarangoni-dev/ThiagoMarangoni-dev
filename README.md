@@ -3,7 +3,7 @@
 ### Thiago Marangoni
  
  
-<img align="right" height="50px" width="100px" alt="ano" src="(sla.jpg)"/>
+<img align="right" height="50px" width="100px" alt="ano" src="([sla.jpg](https://github.com/ThiagoMarangoni-dev/ThiagoMarangoni-dev/blob/81300f5a8f713c585f2633dcfcaab781a6ece249/sla.jpg))"/>
  
 <div/>
  

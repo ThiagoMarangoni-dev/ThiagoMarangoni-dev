@@ -4,9 +4,9 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Com experiência em diversas linguagens de programação e ferramentas, estou sempre buscando aprender e compartilhar conhecimento.
 
-- 🌱 Atualmente estou aprendendo **[Python]**.
+- 🌱 Atualmente estou aprendendo **Python**.
 - 👯 Estou procurando colaborar em **projetos Open Source**.
-- 🤔 Estou procurando ajuda com **[Django]**.
+- 🤔 Estou procurando ajuda com **Django**.
 
  
  

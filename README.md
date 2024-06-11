@@ -28,12 +28,11 @@
 ##  Contatos
 <div>
 <a href="mailto:thiagocmarangoni@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
- 
 </div>
  
 ## contributions
 <div>
+ 
 ![snake gif](https://github.com/ThiagoMarangoni-dev/ThiagoMarangoni-dev/blob/output/github-contribution-grid-snake.svg)
  
 </div>

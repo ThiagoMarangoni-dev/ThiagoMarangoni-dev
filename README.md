@@ -3,7 +3,7 @@
 </p>
 
 
-## 👨‍💻 Sobre mim
+# 👨‍💻 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e programação.  
 Atualmente estou me especializando no desenvolvimento **backend com Java e Spring Boot**, com foco em construir sistemas sólidos e funcionais.  
@@ -12,7 +12,7 @@ Ainda não trabalho na área, mas venho praticando com projetos próprios, usand
 
 ---
 
-## 🧰 Tecnologias que uso
+# 🧰 Tecnologias que uso
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" width="50" />

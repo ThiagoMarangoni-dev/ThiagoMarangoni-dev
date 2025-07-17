@@ -1,7 +1,12 @@
 <h1 align="center">Olá, eu sou o Thiago! 👋</h1>
+---
+<h1 align="center">Bem-vindo ao meu mundo dev! 👨‍💻</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF95&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+formação;Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+MySQL+%7C+HTML+%7C+CSS;Criando+soluções+com+código+e+curiosidade" alt="Typing SVG" />
+</p>
 
-
+---
 
 ## 👨‍💻 Sobre mim
 
@@ -9,8 +14,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecn
 Atualmente estou me especializando no desenvolvimento **backend com Java e Spring Boot**, com foco em construir sistemas sólidos e funcionais.  
 Ainda não trabalho na área, mas venho praticando com projetos próprios, usando **PostgreSQL e MySQL**, para desenvolver minhas habilidades e me preparar para uma oportunidade como **Dev Júnior**.
 
-
-
+---
 
 ## 🧰 Tecnologias que uso
 

@@ -1,7 +1,7 @@
 <h1 align="center">Bem-vindo ao meu mundo dev! 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF95&center=true&vCenter=true&width=480&lines=Dev+em+forma%C3%A7%C3%A3o+com+foco+em+back-end; java+•+Spring+Boot+•+PostgreSQL+•+MySQL;Buscando+excel%C3%AAncia%2C+linha+por+linha" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF95&center=true&vCenter=true&width=480&lines=Dev+em+forma%C3%A7%C3%A3o+com+foco+em+back-end;Java+•+Spring+Boot+•+PostgreSQL+•+MySQL;Buscando+excel%C3%AAncia%2C+linha+por+linha" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 Sobre mim

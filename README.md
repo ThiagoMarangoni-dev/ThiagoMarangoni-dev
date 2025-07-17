@@ -9,6 +9,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecn
 Atualmente estou me especializando no desenvolvimento **backend com Java e Spring Boot**, com foco em construir sistemas sólidos e funcionais.  
 Ainda não trabalho na área, mas venho praticando com projetos próprios, usando **PostgreSQL e MySQL**, para desenvolver minhas habilidades e me preparar para uma oportunidade como **Dev Júnior**.
 
+
 ---
 
 ## 🧰 Tecnologias que uso
@@ -49,13 +50,4 @@ Ainda não trabalho na área, mas venho praticando com projetos próprios, usand
 
 
 
-
-
-
-
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="200" alt="Pac-Man comendo" />
-</p>
 

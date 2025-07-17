@@ -27,13 +27,26 @@ Ainda não trabalho na área, mas venho praticando com projetos próprios, usand
 
 ---
 
+## 📬 Entre em Contato
+
 <div>
-<a href="https://github.com/ThiagoMarangoni-dev/github-readme-stats">
-<img height=150em src="https://github-readme-stats.vercel.app/api?username=ThiagoMarangoni-dev&show_icons=true&theme=midnight-purple" />
-</a>
-<a href="https://github.comThiagoMarangoni-dev/convoychat">
-<img height=150em length= 280em src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoMarangoni-dev&layout=compact&langs_count=8&theme=midnight-purple" />
-</a>
+  <a href="mailto:seu-email@aqui.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/seu-usuario-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div>
+  <a href="https://github.com/ThiagoMarangoni-dev">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoMarangoni-dev&show_icons=true&theme=midnight-purple" />
+  </a>
+  <a href="https://github.com/ThiagoMarangoni-dev?tab=repositories">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoMarangoni-dev&layout=compact&langs_count=8&theme=midnight-purple" />
+  </a>
 </div>
 
 ---

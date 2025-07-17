@@ -30,10 +30,10 @@ Ainda não trabalho na área, mas venho praticando com projetos próprios, usand
 ## 📬 Entre em Contato
 
 <div>
-  <a href="mailto:seu-email@aqui.com" target="_blank">
+  <a href="mailto:thiagocmarangoni@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuario-linkedin" target="_blank">
+  <a href="www.linkedin.com/in/thiago-marangoni-2b7516310" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>

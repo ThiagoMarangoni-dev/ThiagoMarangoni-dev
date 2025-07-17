@@ -16,23 +16,8 @@ Ainda não trabalho na área, mas venho praticando com projetos próprios, usand
 
 ## 🧰 Tecnologias que uso
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=github_dark" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=github_dark" />
-</div>
+<div style="display: inline_block"><br>
+<img alt="Icons" align="center" height="40" width="290" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,java,spring,docker,mysql,mongodb,postgres,postman,vscode,git,github" /> 
 
 ---
 
@@ -51,3 +36,43 @@ Ainda não trabalho na área, mas venho praticando com projetos próprios, usand
 ---
 
 > 💡 “A jornada é tão importante quanto o destino. Cada linha de código é um passo rumo à evolução.” – Thiago
+
+
+
+
+
+
+
+
+
+<div/>
+
+
+<br>   
+     Status
+<div>
+<a href="https://github.com/ThiagoMarangoni-dev/github-readme-stats">
+<img height=150em src="https://github-readme-stats.vercel.app/api?username=ThiagoMarangoni-dev&show_icons=true&theme=midnight-purple" />
+</a>
+<a href="https://github.comThiagoMarangoni-dev/convoychat">
+<img height=150em length= 280em src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiagoMarangoni-dev&layout=compact&langs_count=8&theme=midnight-purple" />
+</a>
+</div>
+
+##   Linguagens de Programação e ferramentas
+<div style="display: inline_block"><br>
+<img alt="Icons" align="center" height="40" width="290" src="https://skillicons.dev/icons?i=js,html,css,bootstrap,java,spring,docker,mysql,mongodb,postgres,postman,vscode,git,github" /> 
+
+</div>
+
+##  Contatos
+<div>
+<a href="mailto:thiagocmarangoni@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+
+## contributions
+<div>
+
+![snake gif](https://github.com/ThiagoMarangoni-dev/ThiagoMarangoni-dev/blob/output/github-contribution-grid-snake.svg)
+
+</div>

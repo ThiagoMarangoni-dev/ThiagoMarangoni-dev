@@ -1,9 +1,5 @@
 <h1 align="center">Bem-vindo ao meu mundo dev! 👨‍💻</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&size=22&pause=1000&color=00FF95&center=true&vCenter=true&width=480&lines=Dev+em+forma%C3%A7%C3%A3o+com+foco+em+back-end;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+PostgreSQL+%E2%80%A2+MySQL;Buscando+excel%C3%AAncia%2C+linha+por+linha" alt="Typing SVG" />
-</p>
-
 ## 👨‍💻 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e programação.  
@@ -29,11 +25,14 @@ Ainda não trabalho na área, mas venho praticando com projetos próprios, usand
 
 ## 📬 Entre em Contato
 
-## 📬 Entre em Contato
-
-**E-mail:** thiagocmarangoni@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-marangoni-2b7516310)
-
+<div>
+  <a href="mailto:thiagocmarangoni@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/thiago-marangoni-2b7516310" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 ---
 
 <div>
@@ -54,7 +53,4 @@ Ainda não trabalho na área, mas venho praticando com projetos próprios, usand
 </div>
 
 > 💡 “A jornada é tão importante quanto o destino. Cada linha de código é um passo rumo à evolução.” – Thiago
-
-
-<img src="https://raw.githubusercontent.com/alexandresanlim/alexandresanlim/main/github-profile-dino.gif" alt="Dino Game">
 

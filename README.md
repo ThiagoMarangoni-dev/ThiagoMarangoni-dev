@@ -1,18 +1,18 @@
 <h1 align="center">Olá, eu sou o Thiago! 👋</h1>
 
-</p>
 
 
-# 👨‍💻 Sobre mim
+
+## 👨‍💻 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e programação.  
 Atualmente estou me especializando no desenvolvimento **backend com Java e Spring Boot**, com foco em construir sistemas sólidos e funcionais.  
 Ainda não trabalho na área, mas venho praticando com projetos próprios, usando **PostgreSQL e MySQL**, para desenvolver minhas habilidades e me preparar para uma oportunidade como **Dev Júnior**.
 
 
----
 
-# 🧰 Tecnologias que uso
+
+## 🧰 Tecnologias que uso
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" width="50" />

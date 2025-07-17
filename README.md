@@ -29,14 +29,10 @@ Ainda não trabalho na área, mas venho praticando com projetos próprios, usand
 
 ## 📬 Entre em Contato
 
-<div>
-  <a href="mailto:thiagocmarangoni@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/thiago-marangoni-2b7516310" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+## 📬 Entre em Contato
+
+**E-mail:** thiagocmarangoni@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-marangoni-2b7516310)
 
 ---
 
@@ -60,5 +56,5 @@ Ainda não trabalho na área, mas venho praticando com projetos próprios, usand
 > 💡 “A jornada é tão importante quanto o destino. Cada linha de código é um passo rumo à evolução.” – Thiago
 
 
-
+<img src="https://raw.githubusercontent.com/alexandresanlim/alexandresanlim/main/github-profile-dino.gif" alt="Dino Game">
 
